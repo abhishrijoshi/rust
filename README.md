@@ -18,6 +18,8 @@ Read ["Installation"] from [The Book].
 ["Installation"]: https://doc.rust-lang.org/book/ch01-01-installation.html
 [The Book]: https://doc.rust-lang.org/book/index.html
 
+## WIP
+Switching from python to c to build the compiler and manage the bootstrapping process.
 ## Installing from Source
 
 The Rust build system uses a Python script called `x.py` to build the compiler,
